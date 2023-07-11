@@ -14,10 +14,12 @@ Please read these Terms of Service (the “Terms”) and our Privacy Policy care
 
 If you do not agree to these terms or any future updated version of them then you must not access and/or use, and must cease all access and/or use of, any of our Services. If we require that any future update to these terms requires any action from you in order to accept the updated terms, then you may not be able to continue to use the Services until you have taken such action.
 
-1. AGREEMENT TO TERMS
+## AGREEMENT TO TERMS
+
 By using our Services, you agree to be bound by these Terms. As set forth above, if you don’t agree to these Terms or our Privacy Policy, you must not use the Services.
 
-2. CHANGES TO TERMS OR SERVICES
+##  CHANGES TO TERMS OR SERVICES
+
 We may modify the Terms at any time, in our sole discretion.  If we do so, we’ll let you know either by posting the modified Terms on the Site or through other communications via the Services. It’s important that you review the Terms carefully whenever we modify them, because if you continue to use the Services after we have posted modified Terms on the Site or via the Services, you are indicating to us that you agree to be bound by the modified Terms.  If you don’t agree to be bound by the modified Terms, then you must not continue to use the Site or the Services.
 
 Because our Services are evolving over time we may update, change, or discontinue all or any part of the Services, at any time and without notice, at our sole discretion.  From time to time, we may make you update your software or hardware to continue to use our Services.  We may also perform these updates remotely without notifying you.
@@ -26,7 +28,8 @@ We reserve the right to stop offering and/or supporting the Services or a partic
 
 WE MAY, IN OUR SOLE DISCRETION, LIMIT, SUSPEND, TERMINATE, MODIFY, OR DELETE ACCOUNTS OR ACCESS TO THE SERVICES OR ANY PORTION OF THEM; PROHIBIT ACCESS TO OUR GAMES AND SITES, AND THEIR CONTENT, SERVICES, AND TOOLS; OR DELAY OR REMOVE HOSTED CONTENT, AND WE ARE UNDER NO OBLIGATION TO COMPENSATE YOU FOR ANY LOSSES OR RESULTS. UNLESS REQUIRED BY APPLICABLE LAW.
 
-3. USING OUR SERVICES
+## USING OUR SERVICES
+
 3.1 Limited License Grant. Subject to your agreement and continuing compliance with these Terms, we grant you a non-exclusive, non-transferable, non-sublicensable, revocable limited license to access and use the Services for your own personal, non-commercial, and entertainment purposes.  You agree not to use the Services for any other purpose and further agree that we will have no liability to you for any damage or loss arising from unauthorized uses.
 
 3.2 Eligibility. You may use the Services only if you are 13 years or older and are not barred from using the Services under applicable law.
@@ -37,7 +40,8 @@ You may not use our Services if you are not allowed to receive products, includi
 
 3.3 Registration and Your Information. It’s important that you provide us with accurate, complete, and up-to-date information for your account and you agree to update such information, as needed, to keep it accurate, complete, and up to date.  If you don’t,  we reserve the right to suspend or terminate your account in our sole discretion, and without notice to you.  You agree that you won’t disclose your account password to anyone, and you’ll notify us immediately of any unauthorized use of your account.  You’re responsible for all activities that occur under your account, whether you know about them or not.
 
-4. INTELLECTUAL PROPERTY RIGHTS
+##  INTELLECTUAL PROPERTY RIGHTS
+
 Except for the limited license granted above, we and our licensors retain all right, title, and interest in and to the Services, including the technology and software used to provide the Services.  The Services are protected by copyright, trademark, trade dress, other worldwide intellectual property rights, and other applicable laws, rules, and regulations.  These Terms do not grant you or any other party any right, title, or interest in the Services or any content in the Services.  
 
 In addition, you agree not to modify, create derivative works of, decompile, or otherwise attempt to extract source code from the Services.
@@ -46,7 +50,8 @@ If you violate these Terms, or any of our other terms that apply to you, , we re
 
 If you provide us with any suggestions for enhancement or feedback regarding the Services, or if you choose to participate in any zthdgame surveys, user research projects, or related activities, you agree that we will have a perpetual, transferable, sublicensable, royalty-free, irrevocable, worldwide license to use your suggestions and feedback or the results of any zthdgame surveys, user research projects, or related activities, including by incorporating your suggestions, feedback, or any results into the Services, without any obligation to compensate you. To the extent permitted by applicable law, you waive any moral rights you may have in connection with your suggestions and feedback and/or the results of any zthdgame surveys, user research projects, or related activities.
 
-5. USER CONTENT AND MONITORING USE OF SERVICES
+##  USER CONTENT AND MONITORING USE OF SERVICES
+
 We reserve the right, but have no obligation, to permit you or other users to submit, upload, publish, transmit, or otherwise make available to us materials, data, information, communications, pictures, and sounds using the Services (“User Content”).  Any User Content that you post, publish, or transmit will be considered non-proprietary and non-confidential.  You retain all of your ownership rights in your User Content, but you give us a perpetual, irrevocable, transferable, sublicensable, fully paid-up, royalty-free, non-exclusive, worldwide right and license to use, copy, reproduce, fix, adapt, modify, create derivative works from, manufacture, commercialize, publish, distribute, sell, license, sublicense, transfer, lease, transmit, publicly display, publicly perform, provide access to electronically, broadcast, communicate to the public by telecommunication, display, perform, enter into computer memory, and use and practice, in any way, your User Content, as well as any modified and derivative works thereof, in connection with the Services, including marketing and promotion of the Services, without notice to or consent from you, and without compensation to you or any other person or entity.  You further grant to zthdgame the unconditional, irrevocable right to use and exploit your name, likeness, and any other information or material submitted or transmitted to zthdgame in connection with any User Content, without any obligation by us or compensation to you.   To the extent permitted by applicable law, you waive any rights of attribution and/or any moral rights you may have in your User Content.
 
 If you post, publish, transmit, or upload User Content to our Services, you represent, warrant, and affirm that it will be:
@@ -65,8 +70,9 @@ While we have no obligation to monitor the Services, we have the right, in our s
 
 We may also, at our sole discretion, choose to edit, refuse to post, or remove any User Content or any other materials that we deem in our sole discretion to be offensive or otherwise objectionable.  If we determine that your communications or User Content violate these Terms, we have the right, in our sole discretion and without notice, to disable your ability to post User Content or to communicate with other players, or we may terminate your access to the Services entirely, among other remedies available to us.
 
-6. CODE OF CONDUCT AND OUR ENFORCEMENT RIGHTS
-6.1 Code of Conduct.  
+##  CODE OF CONDUCT AND OUR ENFORCEMENT RIGHTS
+
+### Code of Conduct.  
 
 When you access or use any Service, you agree:
 
@@ -84,31 +90,45 @@ Not to improperly use in-game support or complaint buttons or make false reports
 Not to attempt to obtain, or phish for, a password, account information, or other private information from anyone else on the Services or from our employees.
 Not to use any payment methods to access or purchase Services for fraudulent purposes, without permission of the authorized owner, or otherwise in connection with a criminal offense or other unlawful activity.
 Not to use any robot, spider, malware, or other automated device or process to access this website for any purpose or copy any material on this website.
+
 Not to use or distribute unauthorized software programs or tools, such as “auto” software programs, “macro” software programs, “cheat utility” software program, or similar applications, exploits, cheats, or any other game hacking, altering, or cheating software or tool.
+
 Not to modify any file or any other part of the Services that zthdgame does not specifically authorize you to modify.
+
 Not to use exploits, cheats, undocumented features, design errors, or problems in a Service.
+
 Not to use or distribute counterfeit software or content, including virtual goods or Virtual Items (as defined below).
 Not to attempt to use a Service on or through any service that is not controlled or authorized by zthdgame.
+
 Not to sell, buy, trade, or otherwise transfer or offer to transfer your zthdgame account, any personal access to the Services, including Virtual Items (as defined below) and other entitlements, either within a Service or on a third party website, or in connection with any out-of-game transaction, unless expressly authorized by zthdgame.
+
 Not to use a Service in a country in which we are prohibited from offering such services under applicable export control laws or any similar laws or regulations.
+
 Not to use your full name as your user name or persona on any game, not to use a user name or persona used by someone else, and not to use a user name or persona that could be considered vulgar, offensive or otherwise objectionable, or in violation of someone else’s rights (including rights to privacy).
+
 Not to engage in any other activity that disturbs the peaceful, fair, and respectful gaming environment of a Service.
+
 Not to use information about users publicly available in any Service (e.g., on a leaderboard) for any purpose unrelated to the Service, including to attempt to identify such users in the real world.
+
 Not to interfere with or disrupt any Service or any server or network used to support or provide a Service, including any hacking or cracking into a Service.
+
 Not to use any software or program that damages, interferes with, or disrupts a Service or another’s computer or property, such as denial of service attacks, spamming, hacking, or uploading computer viruses, worms, Trojan horses, cancelbots, spyware, corrupted files and time bombs.
 Not to promote, encourage, participate in, or facilitate any of the prohibited activity described above.
-6.2  Noncompliance
+###  Noncompliance
 
 Failure to comply with this Code of Conduct may result in the suspension of your account and access to the Services, and/or subject you to any of the penalties identified in these Terms or available under applicable law.
 
-7. YOUR INTERACTIONS WITH OTHER USERS
+## YOUR INTERACTIONS WITH OTHER USERS
+
 You are solely responsible for your interactions with other players.  If you have a problem with other players, we are not obligated to get involved, but we may do so at our discretion. If requested by us, you will cooperate fully with any investigation, including, without limitation, by granting us access to any portion of your account that may be relevant to the investigation.
 
-8. DMCA/COPYRIGHT POLICY
+## DMCA/COPYRIGHT POLICY
+
 We respect the intellectual property rights of others and ask that you do the same. We respond to notices of alleged copyright infringement that comply with the US Digital Millennium Copyright Act (“DMCA”), the E-Commerce Directive and associated legislation in the EU, and similar or equivalent other local laws that may apply. We will take appropriate action in accordance with applicable laws, which may include removing or disabling access to the allegedly infringing content. We reserve the right, in our sole discretion and without notice, to terminate any player’s access to the Services if we determine that the player may be a “repeat infringer.”
 
-9. PAYMENT TERMS
-9.1 In-Game purchases and Virtual Items.
+## PAYMENT TERMS
+
+### In-Game purchases and Virtual Items.
 
 We provide a service in the form of access to games, virtual in-game items or currency, including virtual coins, cash, tokens, or points (collectively “Virtual Items”), and our other Services.  In the Services, you may use “real world” money to obtain a limited, personal, non-transferable, and revocable license and right to use Virtual Items and/or other goods or services solely for personal, non-commercial, and entertainment purposes.  Please note that purchasing Virtual Items only grants you a limited license to use them within the Services, and you do not acquire ownership of any Virtual Items. Your account and any related Virtual Items are owned by us and Virtual Items do not have “real world” value.
 
@@ -132,7 +152,7 @@ Additional Payment Terms:
 
 You agree to pay all fees and applicable taxes incurred by you or anyone using an account registered to you. We may revise the pricing for the Virtual Items it licenses to you through the Services at any time.
 
-9.2 Subscriptions
+### Subscriptions
 
 Some of our Games may offer subscription-based Services.  If you purchase a subscription (or if you activate a trial subscription offered free of charge for a certain period of time that automatically converts to a paid subscription of if not cancelled prior to the expiration of the trial period), then by clicking the purchase button you are requesting that we begin supplying the subscription Services immediately and you are entering into a periodic subscription contract with us.  You are also authorizing a charge to you on a recurring basis of a periodic subscription fee at the rate quoted at the time of purchase.  By purchasing a subscription, we will automatically charge on a recurring basis the payment method associated with your account.  In addition, if you activate a trial subscription offered free of charge for a certain period of time and do not cancel the trial subscription prior to the expiration of that period, the trial subscription will automatically convert to a paid subscription and begin charging on a recurring basis the payment method associated with your account.  For subscription Services purchased in a zthdgame Game played on a platform such as Apple or Google, the applicable platform will charge you for the subscription fee and the platform’s payment terms will apply.  Please review the appropriate platform’s payment terms carefully for additional information.
 
@@ -144,27 +164,32 @@ For subscriptions purchased through a platform such as Apple or Google (or for t
 
 Except where required by applicable law, subscription payments are non-refundable and there WILL BE no refunds or credits for partially used subscription periods.
 
-10. LINKS TO THIRD PARTY WEBSITES, RESOURCES, OR ADVERTISING
+##  LINKS TO THIRD PARTY WEBSITES, RESOURCES, OR ADVERTISING
+
 Our Services may feature advertisements from us or other companies.  Our Privacy Policy explains what information we share with advertisers.  Please read it carefully.
 
 Sometimes we provide links in our games or on the Services to other third-party companies’ websites or resources.  We provide these links only as a convenience and  we do not endorse or accept any responsibility for the content, products, or services on or available from those websites or resources or links displayed on such websites..  We are not liable for any claim relating to any content, goods, and/or services of third parties, and you acknowledge sole responsibility for, and assume all risk arising from, your use of any third-party websites or resources.
 
 Please also note that we do not control linked third-party websites or resources and they may collect data or ask you to provide them with personal or other information, or they may automatically collect information from you.  When you use these third-party sites and services, the third-party company may (or may not) ask you for permission to access your information and content. We are not responsible for these other companies’ content, business practices, or privacy policies, or for how they collect, use, or share the information they get from you.
 
-11. TERMINATION
+##  TERMINATION
+
 We have the right to terminate your access to, and use of, the Services, at our sole discretion, at any time and without notice to you.  Upon any termination, discontinuation, or cancellation of Services or your account, all provisions of these Terms which by their nature should survive will survive, including, without limitation, ownership provisions, warranty disclaimers, limitations of liability, and dispute resolution provisions.
 
-12. INDEMNITY
+##  INDEMNITY
+
 If you violate the law or breach these Terms, and your violation or breach results in loss, damage, a claim, or liability against us, you agree to indemnify, defend, and hold us harmless from (which means you agree to compensate us for) that loss, damage, claim or liability, including our legal fees and expenses.  We may exercise exclusive control of the defense of any legal action subject to indemnification by you, at your expense.  You agree to cooperate in our defense of these actions.  We will use reasonable efforts to notify you of any claim for which you are obligated to indemnify us.
 
-13. WARRANTY DISCLAIMERS
+##  WARRANTY DISCLAIMERS
+
 We make no promises or guarantees that the Services or any content on them will always be available, uninterrupted, or error-free.  As set forth above, our Services’ performance may be affected by your hardware, software, and/or internet access, each of which we do not control.  In addition, we may suspend, withdraw, or restrict the availability of all or any part of our Services for business and operational reasons.
 
 USE OF THE SERVICES IS AT YOUR SOLE RISK.  THE SERVICES AND CONTENT ARE PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTY OF ANY KIND.  TO THE FULLEST EXTENT PERMITTED BY APPLICABLE CLAIM, WE MAKE NO WARRANTIES, CONDITIONS, OR OTHER TERMS OF ANY KIND, EITHER EXPRESS OR IMPLIED, ABOUT THE SERVICES.  WITHOUT LIMITING THE FOREGOING, WE EXPLICITLY DISCLAIM ANY WARRANTIES OF TITLE OR IMPLIED ARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, NON-INFRINGEMENT OR AVAILABILITY, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. WE MAKE NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS. WE MAKE NO WARRANTY REGARDING THE QUALITY, ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS, OR RELIABILITY OF ANY CONTENT AVAILABLE IN THE SERVICES.
 
 If your state or country does not allow these disclaimers, they do not apply to you.  If your state or country requires a certain period for which a warranty applies, it will be either the shorter of thirty (30) days from your first use of the Services or the shortest period required by law.
 
-14. LIMITATION OF LIABILITY
+##  LIMITATION OF LIABILITY
+
 YOU ACKNOWLEDGE THAT NEITHER WE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES (INCLUDING OUR CORPORATE PARENTS) WILL BE LIABLE:
 
 FOR ANY PERSONAL INJURY OR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE, SYSTEM FAILURE, OR THE COST OF SUBSTITUTE SERVICES, IN ANY WAY WHATSOEVER ARISING OUT OF THESE TERMS OR THE USE OF, OR INABILITY TO USE, THE SERVICES OR CONTENT, AND WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE; OR
@@ -177,22 +202,25 @@ To the maximum extent permissible under applicable laws, the total liability of 
 
 Some states or countries do not allow the exclusion of certain warranties or the limitations/exclusions of liability described above, which means these limitations/exclusions may not apply to you if you reside in one of those states or countries.  To the extent that we may not, as a matter of applicable law, disclaim any warranty or limit its liability as set forth herein, the scope of such warranty and the extent of our liability will be the minimum permitted under such applicable law.
 
-15. TIME LIMITATION ON CLAIMS
+##  TIME LIMITATION ON CLAIMS
+
 You agree that any claim you may have in any way arising out of or relating to your relationship with us, including your use of the Services, must be filed within one (1) year after the factual basis for the claim arose; otherwise,  subject to applicable law; otherwise, your claim will be permanently barred as untimely.  
 
-16. GOVERNING LAW AND VENUE
+##  GOVERNING LAW AND VENUE
+
 These Terms and our relationship will be governed by the laws of the State of California, except for its conflict of law principles, to the extent permitted by applicable law.
 
 Further, you and we agree to the jurisdiction of the courts in Santa Clara County, California to resolve any dispute, claim, or controversy that relates to or arises in connection with the Services (and any non-contractual disputes/claims relating to or arising in connection with them), subject to applicable law and any mandatory jurisdictional requirements in your country or state of residence.  
 
-17. AGREEMENT TO ARBITRATE AND CLASS ACTION WAIVER
+##  AGREEMENT TO ARBITRATE AND CLASS ACTION WAIVER
+
 Notice of Claim and Required Informal Dispute Resolution Process
 
 In the event of any controversy or claim arising out of or relating to these Terms, including any question regarding its existence, validity, termination, or breach thereof, or your use of the Services, the parties hereto shall consult and negotiate with each other and, recognizing their mutual interests, attempt to reach a satisfactory solution, through first contacting Customer Support and then through the Informal Dispute Resolution Process described below. If these informal efforts do not resolve the concern or issue, we each agree to resolve any dispute between us through binding arbitration  or small claims court, subject to applicable law, instead of in courts of general jurisdiction.  
 
-If you have any concerns about, or experience any issue with, the Services, most user concerns or issues can be resolved by contacting our Customer Support team at support@codedish.co.
+If you have any concerns about, or experience any issue with, the Services, most user concerns or issues can be resolved by contacting our Customer Support team at support@zthdgame.io.
 
-If you have any concern or dispute that Customer Support cannot resolve, you agree to then try to resolve the dispute informally (the “Informal Dispute Resolution Process”) and in good faith by contacting us and providing a written notice of claim (the “Notice of Claim”) to the address provided below for Service of Process or by sending an email to legal@codedish.co. The Notice of Claim must provide us with an individualized and detailed description of the nature and factual basis of your individual, personal claim(s), and the relief you seek, including the specific amount of any monetary relief you seek and the basis for your calculation of that relief.  Your Notice of Claim may only include your individual personal claim(s) and may not be combined with a Notice of Claim for other individuals.  After submitting your Notice of Claim, you then agree to meet and confer by email, telephonically, or by videoconference (such as Zoom), in good faith regarding your individual claim before taking any further action.  
+If you have any concern or dispute that Customer Support cannot resolve, you agree to then try to resolve the dispute informally (the “Informal Dispute Resolution Process”) and in good faith by contacting us and providing a written notice of claim (the “Notice of Claim”) to the address provided below for Service of Process or by sending an email to legal@zthdgame.io. The Notice of Claim must provide us with an individualized and detailed description of the nature and factual basis of your individual, personal claim(s), and the relief you seek, including the specific amount of any monetary relief you seek and the basis for your calculation of that relief.  Your Notice of Claim may only include your individual personal claim(s) and may not be combined with a Notice of Claim for other individuals.  After submitting your Notice of Claim, you then agree to meet and confer by email, telephonically, or by videoconference (such as Zoom), in good faith regarding your individual claim before taking any further action.  
 
 If any dispute related to your Notice of Claim cannot be resolved through the Informal Dispute Resolution Process within sixty (60) days of our receipt of the Notice of Claim, this Section explains how you and we agree to resolve it.  We each agree to resolve any dispute between us through binding arbitration or small claims court instead of in courts of general jurisdiction.  You understand and agree that you and we are giving up the right to sue in court and the right to have a trial before a judge of jury, subject to applicable law..
 
@@ -206,21 +234,16 @@ This Section does not apply to the following types of claims or disputes, which 
 
 This Section does not prevent you from bringing your dispute to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from us for you, subject to applicable law.  
 
-Procedure for Arbitration
-
-The Federal Arbitration Act applies to this Section.  The arbitration will be governed by the Streamlined Arbitration Rules & Procedures (the “Rules”) of JAMS (“JAMS”), as modified by these Terms.  The Rules are available at https://www.jamsadr.com/rules-streamlined-arbitration/.  The arbitrator will be bound by these Terms.  In the event of a conflict between the rules of the arbitration provider and the Terms, including with respect to the assessment of the fees and costs of arbitration, these Terms will govern.
-
-To start an arbitration proceeding, use the form available on JAMS website (https://www.jamsadr.com/submit/).
-
 Class Action and Representative Action Waiver
 
 For disputes arising between us and you, or any other user, you and we agree that we can only bring a claim against each other on an individual basis. NEITHER YOU NOR WE CAN BRING A CLAIM AS A PLAINTIFF OR CLASS MEMBER IN A CLASS ACTION, CLASS-WIDE ARBITRATION, CONSOLIDATED ACTION, OR REPRESENTATIVE ACTION, subject to applicable law.
 
 Changes to this Section
 
-Notwithstanding any provision in these Terms to the contrary, we agree that, if we make any future change to this Section, you may reject any such change by sending us written notice within thirty (30) days of the change to: legal@codedish.co, subject to applicable law.
+Notwithstanding any provision in these Terms to the contrary, we agree that, if we make any future change to this Section, you may reject any such change by sending us written notice within thirty (30) days of the change to: legal@zthdgame.io, subject to applicable law.
 
-18. MISCELLANEOUS TERMS
+##  MISCELLANEOUS TERMS
+
 Entire Agreement — These Terms constitute the entire and exclusive understanding and agreement between us and you regarding the Services, and these Terms supersede and replace all prior oral or written understandings or agreements between us and you regarding the Services.
 
 Severability — If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible under applicable law, and the other provisions of these Terms will remain in full force and effect.
@@ -229,10 +252,8 @@ No Assignment or Transfer by You — You may not assign or transfer these Terms,
 
 No Waiver — Our failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision to the extent permitted by applicable law.  The waiver of any such right or provision will be effective only if in writing and signed by our duly authorized representative.  Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
 
-19. CONTACT US
-If you have any questions or concerns about our Terms or the Services, please contact us at support@codedish.co, subject to applicable law.
+## CONTACT US
 
-About us     Contacts     Privacy policy     Terms of service
+If you have any questions or concerns about our Terms or the Services, please contact us at support@zthdgame.io, subject to applicable law.
 
-Copyright © 2020-2023 zthdgame. All rights reserved.
 
