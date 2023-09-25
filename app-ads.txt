@@ -1376,3 +1376,4 @@ pubnative.net, 1008379, RESELLER, d641df8625486a7b
 media.net, 8CUD06Z68, RESELLER
 inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 digitalturbine.com,217436,DIRECT
+facebook.com, 2451030291633157, DIRECT, c3e20eee3f780d68
